@@ -1,7 +1,7 @@
 ---
 title: Another page
-layout: default
 description: This is just another page
+layout: default
 ---
 
 # Some other page
