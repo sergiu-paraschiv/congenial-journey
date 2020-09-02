@@ -1,4 +1,13 @@
+---
 title: Hello World!
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 description: Cayman is a clean, responsive theme for GitHub Pages.
-google_analytics:
+google_analytics: 
 theme: jekyll-theme-cayman
